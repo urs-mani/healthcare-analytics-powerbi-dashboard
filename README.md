@@ -29,7 +29,3 @@ Healthcare patient dataset including hospital, doctor, admission dates, billing 
 
 ## Author
 Hema Manichandra Padamta
-(Add screenshots here)
-
-## Author
-Hema Manichandra Padamta
